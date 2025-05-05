@@ -19,7 +19,7 @@
 
 <hr>
 
-The scripts used in this demo where I setup a Windows Server to create a Domain Controller & Active Directory, connect it to Virtual Client PC running Windows 10 in VirtualBox.
+The scripts are used in this demo to help setup a Windows Server to configure a Domain Controller & Active Directory, generate 1000 user accounts using Powershell and connect it to the Domain utilizing a Virtual Client (Client 1 is represenatative of any one of the 1000 user accounts created using Powershell scripting) PC running Windows 10 in VirtualBox.
 Please refer to the logical diagram above to get a visual representation of how everything was setup.
 <br />
 <br />
