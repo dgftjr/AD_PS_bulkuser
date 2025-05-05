@@ -13,13 +13,13 @@
 
 - Active Directory
   - Windows Server 2019.iso
-- VirtualBox
+- Oracle VirtualBox
   - Windows 10.iso
 - Powershell
 
 <hr>
 
-The script used in this demo where I setup a Windows Server to create a Domain Controller & Active Directory and connect it to Virtual Client PC running Windows 10 in VirtualBox.
+The scripts used in this demo where I setup a Windows Server to create a Domain Controller & Active Directory, connect it to Virtual Client PC running Windows 10 in VirtualBox.
 Please refer to the logical diagram above to get a visual representation of how everything was setup.
 <br />
 <br />
